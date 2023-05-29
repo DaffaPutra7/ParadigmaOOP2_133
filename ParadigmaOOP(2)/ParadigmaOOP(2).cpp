@@ -39,3 +39,9 @@ public:
 	}		
 };
 
+int main() {
+	budi a(15);
+
+	return 0;
+}
+
