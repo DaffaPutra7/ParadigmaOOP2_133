@@ -20,3 +20,10 @@ public:
 	}
 };
 
+int main() {
+	AbstrakiKlas ak;
+	ak.setXY("Yogyakarta", "Kampus");
+	ak.display();
+
+	return 0;
+}
