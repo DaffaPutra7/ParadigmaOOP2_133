@@ -5,6 +5,8 @@ VisualStudioVersion = 17.5.33424.131
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "ParadigmaOOP(2)", "ParadigmaOOP(2)\ParadigmaOOP(2).vcxproj", "{6B20470F-1739-40E3-BB49-8A75DDEB8DDA}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "solveMultiWaris", "solveMultiWaris\solveMultiWaris.vcxproj", "{4D9F4A58-B13C-4C8A-94E3-65C223352CF5}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -21,6 +23,14 @@ Global
 		{6B20470F-1739-40E3-BB49-8A75DDEB8DDA}.Release|x64.Build.0 = Release|x64
 		{6B20470F-1739-40E3-BB49-8A75DDEB8DDA}.Release|x86.ActiveCfg = Release|Win32
 		{6B20470F-1739-40E3-BB49-8A75DDEB8DDA}.Release|x86.Build.0 = Release|Win32
+		{4D9F4A58-B13C-4C8A-94E3-65C223352CF5}.Debug|x64.ActiveCfg = Debug|x64
+		{4D9F4A58-B13C-4C8A-94E3-65C223352CF5}.Debug|x64.Build.0 = Debug|x64
+		{4D9F4A58-B13C-4C8A-94E3-65C223352CF5}.Debug|x86.ActiveCfg = Debug|Win32
+		{4D9F4A58-B13C-4C8A-94E3-65C223352CF5}.Debug|x86.Build.0 = Debug|Win32
+		{4D9F4A58-B13C-4C8A-94E3-65C223352CF5}.Release|x64.ActiveCfg = Release|x64
+		{4D9F4A58-B13C-4C8A-94E3-65C223352CF5}.Release|x64.Build.0 = Release|x64
+		{4D9F4A58-B13C-4C8A-94E3-65C223352CF5}.Release|x86.ActiveCfg = Release|Win32
+		{4D9F4A58-B13C-4C8A-94E3-65C223352CF5}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
